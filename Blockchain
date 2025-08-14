@@ -1,0 +1,19 @@
+Trilema: segurança, descentralização, escalabilidade
+Criptografia e segurança de redes
+
+Um blockchain (ou cadeia de blocos) é uma tecnologia que permite o registro de informações digitais de forma segura, transparente e imutável. Ele funciona como um livro-razão digital onde dados são agrupados em blocos e ligados uns aos outros em ordem cronológica, 
+formando uma cadeia (daí o nome).
+Explicação básica:
+•	Imagine um livro onde cada página representa um bloco.
+•	Cada página contém várias transações ou informações.
+•	Quando a página fica cheia, ela é assinada com um código único (chamado de hash) e conectada à próxima página.
+•	Esse código depende do conteúdo da página anterior, o que torna muito difícil alterar qualquer página anterior sem invalidar todas as seguintes .
+Características principais:
+1.	Descentralizado: Não há um único dono ou servidor. Os dados são armazenados em vários computadores (nós), o que evita fraudes e censura.
+2.	Imutável : Uma vez registrada, a informação não pode ser alterada sem que todos percebam.
+3.	Transparente: Todos os participantes podem ver as transações (dependendo do tipo de blockchain).
+Para que serve?
+•	Bitcoin e outras criptomoedas: Registram transações financeiras sem precisar de bancos.
+•	Contratos inteligentes (smart contracts): Programas que executam automaticamente acordos.
+•	Rastreamento de produtos: Controlar a origem e trajeto de produtos na cadeia de suprimentos.
+•	Identidade digital, votação, registros médicos, e muito mais.
